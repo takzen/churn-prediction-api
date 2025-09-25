@@ -17,8 +17,8 @@ The project is designed to be a standalone, production-ready microservice that c
 
 The API is deployed on Render and is publicly accessible.
 
-*   **Base URL:** `TUTAJ_WKLEIMY_LINK_PO_WDROZENIU`
-*   **Interactive Docs (Swagger UI):** `TUTAJ_WKLEIMY_LINK/docs`
+*   **Base URL:** ` https://churn-prediction-api-z9gr.onrender.com`
+*   **Interactive Docs (Swagger UI):** ` https://churn-prediction-api-z9gr.onrender.com/docs`
 
 You can test the API by sending a POST request to the `/predict` endpoint.
 
